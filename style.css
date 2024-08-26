@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(26, 183, 236);
+}
+
+h1 {
+  color: rgb(109, 11, 179);
+}
+
+p {
+  color: rgba(112, 9, 9, 0.658);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.form {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
